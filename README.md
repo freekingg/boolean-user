@@ -17,3 +17,13 @@ macOS 系统
 Linux 系统
 
 使用命令行工具：打开终端，输入ifconfig命令，如果想获取 MAC 地址，可以在输出信息中找到对应的网络接口（如 eth0、wlan0 等）下的 “HWaddr” 后面的字符串，即为 MAC 地址。也可以输入dmidecode -s system-serial-number命令来获取系统序列号。
+
+地址
+https://fastly.jsdelivr.net/gh/freekingg/boolean-user/boolean-user.json
+
+更新
+https://purge.jsdelivr.net/gh/freekingg/boolean-user/boolean-user.json
+
+
+
+

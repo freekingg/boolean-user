@@ -4,6 +4,11 @@
       "key": "C02DK3PWMD6M",
       "remark": "king-mac",
       "enbled": true
-    }
+    },
+   {
+      "key": "03000200-0400-0500-0006-000700080009",
+      "remark": "king-office-win",
+      "enbled": true
+   }
   ]
 }
